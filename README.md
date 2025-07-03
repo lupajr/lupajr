@@ -39,9 +39,6 @@
   <img height="180em" src="https://streak-stats.demolab.com/?user=lupajr&theme=transparent"/>
 </div>
 
-## 📈 Atividade recente
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lupajr&theme=github-compact&hide_border=true)
 
 ---
 
