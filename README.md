@@ -41,7 +41,7 @@
 
 ## 📈 Atividade recente
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lupajr&theme=github-compact&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lupajr&theme=github-compact&hide_border=true)
 
 ---
 
