@@ -31,20 +31,19 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lupajr&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupajr&layout=compact&theme=radical" />
-</div>
-
----
-
-![](https://komarev.com/ghpvc/?username=lupajr&style=flat-square&color=8a2be2)
-
 ## 📊 Minhas estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lupajr&show_icons=true&theme=transparent&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupajr&layout=compact&theme=transparent"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=lupajr&theme=transparent"/>
 </div>
+
+## 📈 Atividade recente
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=lupajr&theme=github-compact&hide_border=true)
+
+---
+
+![](https://komarev.com/ghpvc/?username=lupajr&style=flat-square&color=8a2be2)
+
