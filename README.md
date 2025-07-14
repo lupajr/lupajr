@@ -36,7 +36,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lupajr&show_icons=true&theme=transparent&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupajr&layout=compact&theme=transparent"/>
-  <img height="180em" src="https://streak-stats.demolab.com/?user=lupajr&theme=transparent"/>
 </div>
 
 
