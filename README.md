@@ -34,8 +34,9 @@
 ## 📊 Minhas estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lupajr&show_icons=true&count_private=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupajr&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lupajr&show_icons=true&count_private=true&theme=transparent"/>
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lupajr&layout=compact&theme=transparent"/>
 </div>
 
 ---
