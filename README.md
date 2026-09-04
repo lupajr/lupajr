@@ -1,7 +1,7 @@
 ## Olá, eu sou o Luiz Paulo 👋
 
 💼 Atuo profissionalmente como QA (Quality Assurance)  
-📍 Jaraguá do Sul - SC, Brasil  
+📍 Dom Silvério - MG, Brasil  
 📧 Email para contato: luiz.paulo@amsistemas.com.br  
 
 ---
